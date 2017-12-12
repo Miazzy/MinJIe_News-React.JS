@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="88px" height="88px" viewBox="0 0 88 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>h-face</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="44" cy="44" rx="44" ry="44"></ellipse>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="88" height="88" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="visuals" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="vis-lesson_feedback-v1.0" transform="translate(-852.000000, -300.000000)">
+            <g id="happy" transform="translate(824.000000, 272.000000)">
+                <g id="h-face" transform="translate(28.000000, 28.000000)">
+                    <use id="h-head" stroke="#2E3D49" mask="url(#mask-2)" stroke-width="8" fill="#FFE778" xlink:href="#path-1"></use>
+                    <path d="M1.83333333,56.8353799 C7.38612584,74.7764063 24.1076803,87.8093025 43.8732307,87.8093025 C63.6387812,87.8093025 80.3603356,74.7764063 85.9131281,56.8353799 C81.8669499,56.6110434 70.6239271,74.9759692 43.8732307,74.9759692 C17.1225344,74.9759692 5.87951151,56.6110434 1.83333074,56.8353719 Z" id="h-s" fill="#000000" opacity="0.08"></path>
+                    <path d="M24,24 C24,27.3137085 26.6862915,30 30,30 L30,30 C33.3137085,30 36,27.3137085 36,24" id="h-e-l" stroke="#2E3D49" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" transform="translate(30.000000, 27.000000) scale(1, -1) translate(-30.000000, -27.000000) "></path>
+                    <path d="M52,24 C52,27.3137085 54.6862915,30 58,30 C61.3137085,30 64,27.3137085 64,24" id="h-e-r" stroke="#2E3D49" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" transform="translate(58.000000, 27.000000) scale(1, -1) translate(-58.000000, -27.000000) "></path>
+                    <path d="M43.9514963,62 C53.2736499,62 61.0836027,54.0000555 61.9852926,44.0885184 C62.1803834,41.9440446 60.3701319,42.0001386 60.3701319,42.0001386 C49.3616351,42.0001386 36.0827851,42.0001386 27.8267464,42.0001386 C27.1684445,42.0001386 25.8454849,42.0022623 26.0148339,44.0885184 C26.8193898,54.0000555 34.6276248,62 43.9514963,62 Z" id="h-mouth" stroke="#2E3D49" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="#FAFBFC"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
