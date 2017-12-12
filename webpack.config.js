@@ -32,7 +32,7 @@ module.exports = {
     },
     output: {
         path: __dirname,
-        filename: 'dist/[name].js'
+        filename: 'common/[name].js'
     },
     plugins: [
         new webpack.optimize.CommonsChunkPlugin({
