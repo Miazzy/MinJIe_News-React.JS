@@ -26,7 +26,7 @@ export default class MobileIndex extends React.Component {
                     <TabPane tab="头条" key="1">
                         <div class="carousel">
                             <Carousel {...settings}>
-                                <div><img src="/src/images/bg1.jpg"/></div>
+                                <div><img src="/src/images/bg6.jpg"/></div>
                                 <div><img src="/src/images/bg2.jpg"/></div>
                                 <div><img src="/src/images/bg3.jpg"/></div>
                                 <div><img src="/src/images/bg4.jpg"/></div>
